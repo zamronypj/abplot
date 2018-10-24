@@ -1,9 +1,9 @@
-# output to a jpeg file
-set terminal jpeg size 1024,768
+# output to a png file
+set terminal png size 1024,768
 # This sets the aspect ratio of the graph
 set size 1, 1
 # The file we'll write to
-set output "timeseries.jpg"
+set output "timeseries.png"
 # The graph title
 set title "Benchmark testing"
 # Where to place the legend/key

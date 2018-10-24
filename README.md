@@ -20,7 +20,7 @@ with 10 concurrent requests to url https://example.com/
     $ ./abplot.sh 10000 10 https://example.com/
 
 After script finish, in current working directory, there will be new file name
-`timeseries.jpg`.
+`timeseries.png`.
 
 ## Credit
 
