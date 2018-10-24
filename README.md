@@ -1,5 +1,5 @@
 # abplot
-Bash shell script to automate running Apache Bench and gnuplot to generate graphical benchmark statistics
+Bash shell script to automate running [Apache Bench](https://httpd.apache.org/docs/2.4/programs/ab.html) and [Gnuplot](http://www.gnuplot.info/) to generate graphical benchmark statistics.
 
 ## Requirement
 
@@ -8,7 +8,7 @@ Bash shell script to automate running Apache Bench and gnuplot to generate graph
 
 ## Installation
 
-Clone this repository
+Clone this repository.
 
 ## Run
 
